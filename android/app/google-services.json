@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "618892116288",
+    "project_id": "grocery-scale",
+    "storage_bucket": "grocery-scale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618892116288:android:aabd05c1e854686682faa5",
+        "android_client_info": {
+          "package_name": "com.weightscale.digital.scale.kitchen.food.scale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618892116288-rgeug1mjk9ftrg4tvvhhh1s0i4s42cfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.weightscale.digital.scale.kitchen.food.scale",
+            "certificate_hash": "2f9e0d2013fc3d3730b84e4937b8725cc868407a"
+          }
+        },
+        {
+          "client_id": "618892116288-75anhsri70vdtdi1sn6k4k3tftdhbarq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4TKTd4Wc6vMv48PA84_6_Gl1vUIiW_rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618892116288-75anhsri70vdtdi1sn6k4k3tftdhbarq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
